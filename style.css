@@ -21,25 +21,9 @@ body{
 p .alinha{
     text-align: right;
 }
-.img-agro{
-    width: 300px;
-}
 
-.br-3{
-    border-radius: 15px;
-}
-
-.img-card{
-    max-height: 250px;
-}
-
-.img-slide{
-    max-height: 400px;
-}
-
-.footer{
-    background-color: rgb(42, 85, 49);
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 5px;
+.jihoon{
+    width: 500px;
+    border-radius: 40px;
+    align-items: right;
 }
