@@ -2,14 +2,14 @@ body{
     padding: 0;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(143, 214, 153, 0.877);
-    color: rgb(42, 85, 49);
+    background-color: #8fd699e0;
+    color: #2a5531;
     
 }
 
 .cabecalho{
     color: rgb(255, 255, 255);
-    background-color: rgb(42, 85, 49);
+    background-color: #2a5531;
     text-align: center;
     padding: 30px;
 }
@@ -23,7 +23,63 @@ p .alinha{
 }
 
 .jihoon{
-    width: 500px;
+    width: 300px;
+    height: 300px;
     border-radius: 40px;
     align-items: right;
 }
+
+.card-title-perigo{
+    color: red;
+    font-weight: bold;
+}
+
+.card-title-desastre{
+     color: red;
+    font-weight: bold;
+}
+
+.card-title-prevenir{
+     color: green;
+    font-weight: bold;
+}
+
+.botao{
+    color: #2a5531;
+}
+
+.ambiente {
+  margin-top: 80px;
+  text-align: center;
+}
+
+.imagem-centralizada {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%; /* Responsivo */
+  height: 400px;
+}
+
+.card-body {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.what-1{
+    font-weight: bold;
+}
+
+.card{
+     transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+ /* Efeito nos cards ao passar o mouse */
+        .card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
+        }
