@@ -1,1 +1,3 @@
 # agrinho2025
+
+Este site tem como objetivo destacar a importância da educação ambiental como ferramenta essencial para a construção de uma sociedade mais consciente e responsável. Através de conteúdos informativos, o visitante será levado a refletir sobre as consequências das ações humanas no meio ambiente, compreendendo os perigos que essas atitudes representam para o equilíbrio ecológico. São abordadas formas de prevenção, práticas sustentáveis e soluções que podem ser aplicadas no dia a dia para reduzir os impactos ambientais. Além disso, o site explora os desastres causados pela interferência humana na natureza, buscando promover o conhecimento e incentivar a adoção de hábitos que contribuam para a preservação do planeta.
