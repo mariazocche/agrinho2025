@@ -5,7 +5,7 @@ Este site tem como objetivo destacar a importância da educação ambiental como
 
 ### Estrutura do Projeto:
 Tecnologias Utilizadas:
-HTML: Estrutura principal da página.
+HTML: Estrutura principal da página.(para facilitar o processo e deixar mais rápido fiz a maioria dos códigos no HTML)
 CSS: Estilização visual da página.
 Fontes: Fontes personalizadas para melhorar a legibilidade e o design.
 Arquivos:
